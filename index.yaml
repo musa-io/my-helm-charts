@@ -1,0 +1,46 @@
+apiVersion: v1
+entries:
+  backbase-app:
+  - apiVersion: v2
+    created: "2024-11-08T01:37:57.529364+02:00"
+    dependencies:
+    - name: backbase-app
+      repository: file:///Users/potelemusa/Workspace/standardbank/sadigital_bb_charts/charts/backbase/backbase-app
+      version: 1.6.3
+    description: A Common Helm Chart for Backbase Java Applications
+    digest: 29399395819403e7168668d4cb6f76b1ea24c6d684f6b9843179a68c2e944bbc
+    icon: https://start.backbase.com/favicon.png
+    keywords:
+    - backbase
+    - java
+    maintainers:
+    - email: alexeysy@backbase.com
+      name: Alexey Sychev
+    - email: baas@backbase.com
+      name: BaaS Team
+    name: backbase-app
+    urls:
+    - https://musa-io.github.io/my-helm-charts/backbase-app-1.6.3.tgz
+    version: 1.6.3
+  - apiVersion: v2
+    created: "2024-11-08T01:37:57.533879+02:00"
+    dependencies:
+    - name: backbase-app
+      repository: file:///Users/potelemusa/Workspace/standardbank/sadigital_bb_charts/charts/backbase/backbase-app
+      version: 1.6.3
+    description: A Common Helm Chart for Backbase Java Applications
+    digest: 745210270e1a4de3879a5507a2b1152d91d3e43343d89fe726f288744d46666d
+    icon: https://start.backbase.com/favicon.png
+    keywords:
+    - backbase
+    - java
+    maintainers:
+    - email: alexeysy@backbase.com
+      name: Alexey Sychev
+    - email: baas@backbase.com
+      name: BaaS Team
+    name: backbase-app
+    urls:
+    - https://musa-io.github.io/my-helm-charts/charts/backbase-app-1.6.3.tgz
+    version: 1.6.3
+generated: "2024-11-08T01:37:57.52125+02:00"
